@@ -38,7 +38,7 @@ def saludo(persona):
     print("Hola {}".format(persona))
 
 saludo("Luis")
-saludo("Bedu")
+saludo("Cuemby")
 saludo("Mundo")
 ```
 

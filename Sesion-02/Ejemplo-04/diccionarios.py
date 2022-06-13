@@ -6,7 +6,7 @@ d2 = dict()
 print(type(d1) )
 
 #Crear diccionario con datos
-d3 = {"Usuario": "usser123", "Correo": "us12@bedu.org", "Compañia": "Bedu"} 
+d3 = {"Usuario": "usser123", "Correo": "us12@cuemby.com", "Compañia": "Cuemby"} 
 
 #Observe los pares en formatollave:valor     
 print(d3)

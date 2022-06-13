@@ -49,7 +49,7 @@ for animal in animales:
 
 #Para diccionarios podemos obtener las llaves y valores y luego recorrerlos
 
-d3 = {"Usuario": "usser123", "Correo": "us12@bedu.org", "Compañia": "Bedu"} 
+d3 = {"Usuario": "usser123", "Correo": "us12@Cuemby.org", "Compañia": "Cuemby"} 
 
 llaves = d3.keys()
 valores = d3.values()
