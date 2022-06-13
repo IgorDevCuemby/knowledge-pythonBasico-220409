@@ -28,7 +28,7 @@ d2 = dict()
 
 
 #Crear diccionario con datos
-d3 = {"Usuario": "usser123", "Correo": "us12@bedu.org", "Compañia": "Bedu"} 
+d3 = {"Usuario": "usser123", "Correo": "us12@Cuemby.org", "Compañia": "Cuemby"} 
 ```
 Es importante señalar que la información se almacena en pares en formato llave:valor     
 
